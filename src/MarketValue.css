@@ -1,0 +1,26 @@
+.value{
+    /* property: inherit */
+    font-size: 1.5rem;
+}
+
+.label{
+    font-family: Lato,Helvetica Neue,Arial,Helvetica,sans-serif;
+    font-size: 1em;
+    font-weight: 700;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background: linear-gradient(to right, rgb(63, 81, 181), rgb(100, 181, 246)) rgb(255, 255, 255) !important;
+    border: none !important;
+    padding-bottom: 10em !important;
+}
+
+.statistic{
+    margin-top: 1rem;
+    text-align: center;
+}
+
+

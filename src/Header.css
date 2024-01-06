@@ -1,0 +1,18 @@
+.header {
+    /* background-color: #333; */
+    /* color: #fff; */
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    /* position: sticky; */
+}
+
+.logo {
+    max-width: 6rem;
+}
+
+.item{
+    margin: 2rem;
+}
+  
